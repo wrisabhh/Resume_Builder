@@ -26,18 +26,18 @@ const Footer = () => {
 
                 <Stack direction={{ base: 'column', md: 'row' }} fontWeight={'medium'}>
                     <Text>&copy; 2022 Resumegen. Designed By</Text>
-                    <Text as={'a'} href={'https://www.linkedin.com/in/divyanshu-maurya-ved/'} target={'_blank'} color={'blue.600'}>Divyanshu Maurya</Text>
+                    <Text as={'a'} href={'www.linkedin.com/in/rishabhyadav1410'} target={'_blank'} color={'blue.600'}>Rishabh yadav</Text>
                 </Stack>
 
 
                 <Stack direction={'row'} spacing={6}>
-                    <IconButton isRound='true' as={'a'} href={'https://github.com/Divyanshu-500'} target='_blank' bg={'gray.300'}>
+                    <IconButton isRound='true' as={'a'} href={'https://github.com/wrisabhh'} target='_blank' bg={'gray.300'}>
                         <FaGithub />
                     </IconButton>
-                    <IconButton isRound='true' as={'a'} href={'https://www.linkedin.com/in/divyanshu-maurya-ved/'} target='_blank' colorScheme={'blue'}>
+                    <IconButton isRound='true' as={'a'} href={'www.linkedin.com/in/rishabhyadav1410'} target='_blank' colorScheme={'blue'}>
                         <FaLinkedin />
                     </IconButton>
-                    <IconButton isRound='true' as={'a'} href={'https://www.instagram.com/itz_dev_024?igsh=MXkwZGR5aWVqdHE0bQ=='} target='_blank' colorScheme={'pink'}>
+                    <IconButton isRound='true' as={'a'} href={'https://www.instagram.com/wrisabhh/'} target='_blank' colorScheme={'pink'}>
                         <FaInstagram />
                     </IconButton>
 
