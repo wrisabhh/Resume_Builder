@@ -2,7 +2,7 @@
 ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements.
 Live resume editor.
 
-[Visit Now](https://resumegenx.netlify.app/) 🚀
+[Visit Now](https://resume-builder-pink-gamma.vercel.app/) 🚀
 
 ## 🖥️ Tech Stack
 
@@ -13,7 +13,7 @@ Extras: React-To-Print
 
 **Deployed On:**
 
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
 
